@@ -6,6 +6,6 @@ click [Click here](https://github.com/MichaelDinglis/python_projects/blob/master
 * This code, asks the user to enter a sting, and then devides it to sets of 3. It then checks if there are any duplicates in the sets and informs the user.
 [Click here](https://github.com/MichaelDinglis/python_projects/blob/master/No.2%20-%20Check%20for%20duplicate%20characters.py) to access it
 
-  * This code, plays the craps game. You can modify it to create a variable number of player or many more things. Find it by clicking 
-  [here](https://github.com/MichaelDinglis/python_projects/blob/master/RollDice%20Final.py)
+ * This code, plays the craps game. You can modify it to create a variable number of player or many more things. Find it by clicking 
+ [here](https://github.com/MichaelDinglis/python_projects/blob/master/RollDice%20Final.py)
   
