@@ -36,7 +36,7 @@ while (i<1001):
             return(no)
 
     def postal():
-        filePo='/home/mike/Desktop/supermarket/postal-codes.csv'
+        filePo='path to csv file with random postal codes/postal-codes.csv'
         f= open(filePo, 'r')
         a=[]
         a=f.readlines()
@@ -87,6 +87,6 @@ while (i<1001):
     i+=1
 s=json.dumps(customers,indent=3, separators=(',', ': '), cls=UUIDEncoder)
 
-with open ("/home/mike/Desktop/supermarket/customers.json", 'w') as f:
+with open ("path to save the file/customers.json", 'w') as f:
     f.write(s)
 
