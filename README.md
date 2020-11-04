@@ -9,3 +9,4 @@ click [Click here](https://github.com/MichaelDinglis/python_projects/blob/master
  * This code, plays the craps game. You can modify it to create a variable number of players or many more things. Find it by clicking 
  [here](https://github.com/MichaelDinglis/python_projects/blob/master/RollDice%20Final.py)
   
+* Convert seconds to days, hours, minutes and seconds. Click [here](https://github.com/MichaelDinglis/python_projects/blob/master/Secs%20to%20days.ipynb)
