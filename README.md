@@ -1,4 +1,4 @@
-# python_projects
+# python_code
 These are the current projects:
 * This code, creates 1000 customer entries as a base to start a directory system for a supermarket or a mini market. This is the base. It outputs a json file.
 click [Click here](https://github.com/MichaelDinglis/python_projects/blob/master/No.1%20-%20Customers1000.py) to access it
