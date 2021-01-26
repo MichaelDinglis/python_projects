@@ -10,3 +10,5 @@ click [Click here](https://github.com/MichaelDinglis/python_projects/blob/master
  [here](https://github.com/MichaelDinglis/python_projects/blob/master/RollDice%20Final.py)
   
 * Convert seconds to days, hours, minutes and seconds. Click [here](https://github.com/MichaelDinglis/python_projects/blob/master/Secs%20to%20days.ipynb) to access it
+
+* Create matrix arrays - numpy. Click Click [here](https://github.com/MichaelDinglis/python_projects/blob/master/Rows%20and%20columns.py) to access it
